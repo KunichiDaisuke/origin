@@ -1,3 +1,4 @@
 Git command even monkey can know
 サルでもわかるGitコマンド
 add 変更をインデックスに登録するよ
+pull　リモートレポジトリの内容を取得する
